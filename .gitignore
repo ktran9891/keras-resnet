@@ -5,3 +5,5 @@
 # dev envs
 .idea/
 *.iml
+
+*.pyc
